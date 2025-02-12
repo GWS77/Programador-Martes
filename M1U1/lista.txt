@@ -2,3 +2,5 @@ naranjas
 paltas
 mandarinas
 manzanas
+cell
+goku
